@@ -29,5 +29,6 @@ public class Main {
         System.out.println("git5");
         System.out.println("git4");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
