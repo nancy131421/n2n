@@ -25,6 +25,7 @@ public class Main {
         SqlSession session = sqlSessionFactory.openSession();
         Order order = session.selectOne("find",1);
         System.out.println(order);
-        System.out.println("git");
+        System.out.println("git3");
+        System.out.println("git2");
     }
 }
